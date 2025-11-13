@@ -23,7 +23,8 @@ body {
   height: 150px;
   display: block;
   margin: 10px auto;
-  border-radius: 20%;
+  border: 1px solid var(--fgColor);
+  border-radius: 50%;
 }
 
 #userName {
